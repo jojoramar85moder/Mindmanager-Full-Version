@@ -257,4 +257,4 @@ This repository serves as the official landing page for MindManager. The softwar
 **Get the most recent version of MindManager today!**
 
 ---
-**Last updated:** 2026-09-26 10:42:15 UTC
+**Last updated:** 2026-09-26 14:51:10 UTC
